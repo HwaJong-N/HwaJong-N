@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-* 📝Study Blog :  <img src="https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white"/>
+* 📝Study Blog :  <a href="https://velog.io/@hj_"><img src="https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white&"/></a>
 
 
 
