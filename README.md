@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 
 
 
-* 📝Study Blog ( Past ) :  <a href="https://velog.io/@hj_"><img src="https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white&"/></a>
-
-* 📝Study Blog ( Present ) :  <a href="https://velog.io/@hj__"><img src="https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white&"/></a>  <a href="https://www.notion.so/d6459b4ed002443d955c7d9b79f5b589?v=42aaa64510e0412aaa340a28df053bc5&pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
-
-
+* 📝Study Blog :  <a href="https://velog.io/@hj_"><img src="https://img.shields.io/badge/Velog-20C997?&style=flat&logo=Velog&logoColor=white&"/></a>  <a href="https://www.notion.so/d6459b4ed002443d955c7d9b79f5b589?v=42aaa64510e0412aaa340a28df053bc5&pvs=4"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
 
 
 
