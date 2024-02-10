@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 #### 📝Study Blog :  <a href="https://velog.io/@hj_"><img src="https://img.shields.io/badge/Velog-20C997?&style=flat-square&logo=Velog&logoColor=white&"/></a>
-
+-->
 
 
 #### 📌 Mainly I use : <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> 
